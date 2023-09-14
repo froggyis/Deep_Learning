@@ -14,8 +14,8 @@ ref :　https://www.kaggle.com/c/datalab-cup3-reverse-image-caption-2022f
 ## Datalab Cup4: Unlearnable Datasets
 In this work, we try to crack the unlearnable dataset which proposed by Neural Tangent Generalization Attacks (NTGA) ICML'21
 Authors of NTGA propose the generalization attack, a new direction for poisoning attacks, where an attacker aims to modify training data in order to spoil the training process such that a trained network lacks generalizability. They devise Neural Tangent Generalization Attack (NTGA), a first efficient work enabling clean-label, black-box generalization attacks against Deep Neural Networks.\
-ref :
+ref:
 <ul>
-  <li>[First item](https://www.kaggle.com/c/datalab-cup4-unlearnable-datasets-cifar-10)https://www.kaggle.com/c/datalab-cup4-unlearnable-datasets-cifar-10</li>
-  <li>[Second item](https://www.kaggle.com/c/datalab-cup4-unlearnable-datasets-imagenet)https://www.kaggle.com/c/datalab-cup4-unlearnable-datasets-imagenet</li>
+  <li>https://www.kaggle.com/c/datalab-cup4-unlearnable-datasets-cifar-10)https://www.kaggle.com/c/datalab-cup4-unlearnable-datasets-cifar-10</li>
+  <li>https://www.kaggle.com/c/datalab-cup4-unlearnable-datasets-imagenet)https://www.kaggle.com/c/datalab-cup4-unlearnable-datasets-imagenet</li>
 </ul>
